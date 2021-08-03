@@ -1,0 +1,17 @@
+= Rest Docs API Document
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 2
+:sectlinks:
+:operation-http-request-title: Example Request
+:operation-http-response-title: Example Response
+:default-path: https://seeyouthere.o-r.kr/api/docs
+
+.API Docs
+link:{default-path}/locations[Locations RestDocs]
+
+link:{default-path}/paths[Paths RestDocs]
+
+link:{default-path}/member[Member RestDocs]
